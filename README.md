@@ -302,6 +302,8 @@ It's free & open-source. Enjoy! 🚀
 | 🖥️ | [PastePal - Clipboard Manager](https://indiegoodies.com/pastepal) | PastePal is the best universal clipboard manager for Mac, iPhone and iPad.| 50% OFF lifetime purchase |
 | 🖥️ | [Beaconly - Extensible Menu Bar App](https://beaconly.app/) | Beaconly is most versatile macOs menu app allowing you to track your tasks from Jira, Asana and others, your service status and more right inside your menu. | 33% off till end of the year ($1.99 instaed of $2.99) |
 | 🟢 | [QuickWhisper](https://iwtcom.gumroad.com/l/quickwhisper?code=BFRIDAY2024) | QuickWhisper turns any audio or video into accurate text instantly on your Mac, handling everything from meetings to podcasts with lightning-fast speed and accuracy. | 50% OFF with **BFRIDAY2024** |
+| 🖥️ | [Clipbox](https://apps.apple.com/us/app/clipboard-clipbox/id1573943451) | Spotlight style universal clipboard | Lifetime 30% OFF (automatically applied) |
+| 🕓 | [Timekeeper](https://apps.apple.com/us/app/timekeeper-time-calculator/id6450931725) | Time tracker synced across all your devices | **50% OFF** (automatically applied) |
 
 ### Design Tools
 | | Name | Description | Deal |
@@ -361,6 +363,7 @@ It's free & open-source. Enjoy! 🚀
 |  📸 | [ThenNow](https://thennow.app) | Photo Time Machine app that helps you rediscover memories by automatically displaying photos from the same day in previous years, featuring location timeline and beautiful sharing templates. | 50% OFF Pro Plans: Yearly $4.99 (was $9.99), Lifetime $7.49 (was $14.99) Nov 25 - Dec 2 |
 | 🎥 | [TimeLapsed - Time Lapse Camera](https://apps.apple.com/us/app/timelapsed-time-lapse-camera/id6479436667) | The ultimate time lapse photography app | 60% off in the AppStore |
 | ✨ | [Binsoo - Photo Editor](https://apps.apple.com/redeem/?ctx=offercodes&id=6502683720&code=BLACKVIBEDAY) | Discover Binsoo, the powerful and easy-to-use photo editing app that transforms ordinary photos into stunning works of art. | 40% discount for the first year with code BLACKVIBEDAY |
+| 📸 | [WarpCam](https://apps.apple.com/us/app/warpcam-wallpaper-maker/id6686408324) | Background generator Camera - Turn boring photos into stunning backgrounds | **100%** OFF |
 
 ### Health & Fitness
 | | Name | Description | Deal |
